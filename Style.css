@@ -1,12 +1,25 @@
 h1{
     color:  rgb(9, 108, 78);
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: center;
 }
 h2{
     color: red;
 }
 .im1{
     width: 100px;
+    border: 2.5px solid rgb(9, 108, 78);
+    margin: 2px;
 }
 .logo{
     width: 100px;
+    size: 100px;
+}
+p{
+    font-size: 15px;
+}
+.artworksample{
+    background-color: rgb(9, 108, 78) ;
+    color: white;
 }
